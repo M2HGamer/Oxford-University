@@ -1,0 +1,383 @@
+.main{
+			width: 100%;
+			height: 20%;
+			background-color: whitesmoke;
+			border-radius: 9px;
+			 box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.10), 0 6px 20px 0 rgba(0, 0, 0, 0.35);
+
+		}
+
+		.logo{
+			width: 10%;
+			height: 100%;
+			background-color: black;
+			border-radius: 9px;
+		}
+
+		.heading{
+			font-size: 40px;
+			text-align: center;
+			font-family: roboto, algerian;
+			position: absolute;
+			top: 7px;
+			left: 510px;
+		}
+
+		.title{
+			margin-left: 180px;
+			text-align: center;
+			margin-left: 30px;
+			background-color: black;
+			color: white;
+			padding: 10px;
+			border-radius: 50px;
+			width: 80px;
+			position: absolute;
+			top: 162px;
+			left: 100px;
+
+		}
+
+		.title1{
+
+			text-align: center;
+			margin-left: 30px;
+			background-color: black;
+			color: white;
+			padding: 10px;
+			border-radius: 50px;
+			width: 80px;
+			position: absolute;
+			top: 162px;
+			left: 300px;
+
+
+		}
+
+		.title2{
+
+			text-align: center;
+			margin-left: 30px;
+			background-color: black;
+			color: white;
+			padding: 10px;
+			border-radius: 50px;
+			width: 80px;
+			position: absolute;
+			top: 162px;
+			left: 500px;
+
+		}
+
+		.title3{
+			text-align: center;
+			margin-left: 30px;
+			background-color: black;
+			color: white;
+			padding: 10px;
+			border-radius: 50px;
+			width: 80px;
+			position: absolute;
+			top: 162px;
+			left: 700px;
+		}
+
+		.title4{
+			text-align: center;
+			margin-left: 30px;
+			background-color: black;
+			color: white;
+			padding: 10px;
+			border-radius: 50px;
+			width: 100px;
+			position: absolute;
+			top: 162px;
+			left: 900px;
+		}
+
+		.title5{
+			text-align: center;
+			margin-left: 30px;
+			background-color: black;
+			color: white;
+			padding: 10px;
+			border-radius: 50px;
+			width: 80px;
+			position: absolute;
+			top: 162px;
+			left: 1100px;
+		}
+
+.aboutmain{
+	height: 100%;
+	width: 100%;
+}
+
+
+
+.image33{
+	background-color: red;
+	width: 50%;
+	height: 50%;
+	background-image: url(abouttsysysy.webp);
+	background-size: cover;
+	float: left;
+	border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.10), 0 6px 20px 0 rgba(0, 0, 0, 0.35);
+
+}
+
+.image22{
+	background-color: black;
+	width: 50%;
+	height: 100%;
+	float: right;
+	background-image: url(ora-staff-with-students.jpg);
+	background-size: cover;
+	border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.10), 0 6px 20px 0 rgba(0, 0, 0, 0.35);
+}
+.image11{
+	background-color: gray;
+	width: 50%;
+	height: 50%;
+	float: left;
+	background-image: url(aboutusss.jpeg);
+	background-size: cover;
+	border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.10), 0 6px 20px 0 rgba(0, 0, 0, 0.35);
+
+
+}
+
+.hello{
+	width: 100%;
+	height: 9%;
+	border-radius: 10px;
+
+
+}
+
+.image-main-div{
+	width: 100%;
+	height: 70%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.10), 0 6px 20px 0 rgba(0, 0, 0, 0.35);
+
+}
+
+.oxford-meating{
+	width: 40%;
+	height: 100%;
+	background-image: url(there-is-huge-public-opposition-to-theresa-mays-crackdown-on-foreign-students.webp);
+	background-size: cover;
+	border-radius: 10px;
+	float: left;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.10), 0 6px 20px 0 rgba(0, 0, 0, 0.35);
+
+
+}
+
+.aboutus-text{
+	width: 60%;
+	height: 100%;
+	border-radius: 10px;
+	float: right;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.10), 0 6px 20px 0 rgba(0, 0, 0, 0.35);
+
+}
+
+.heading2{
+	text-align: center;
+	color: orange;
+
+}
+
+.oxford-ceenten{
+	width: 80%;
+	height: 100%;
+	background-image: url(abouttttt.jpeg);
+	background-size: cover;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.10), 0 6px 20px 0 rgba(0, 0, 0, 0.35);
+    float: left;
+    border-radius: 10px;
+}
+.other{
+	width: 20%;
+	height: 100%;
+	background-color: navajowhite;
+	float: right;
+	border-radius: 10px;
+}
+.image-main-div-2{
+	width: 100%;
+	height: 100%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.10), 0 6px 20px 0 rgba(0, 0, 0, 0.35);
+    border-radius: 10px;
+
+}
+.p1{
+	text-align: center;
+	font-size: 30px;
+
+}
+.p2{
+	text-align: center;
+	font-size: 15px;
+	
+}
+.p3{
+	text-align: center;
+	font-size: 15px;
+	
+}
+.p4{
+	text-align: center;
+	font-size: 15px;
+	
+}
+.p5{
+	text-align: center;
+	font-size: 15px;
+	
+}
+.p6{
+	text-align: center;
+	font-size: 15px;
+	
+}
+
+.usa-main-div{
+	width: 100%;
+	height: 40%;
+	border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.10), 0 6px 20px 0 rgba(0, 0, 0, 0.35);
+    border-radius: 10px;
+
+
+}
+
+.usa1{
+	width: 33.30%;
+	height: 100%;
+	background-color: red;
+	float: left;
+	background-image: url(images1.jpeg);
+	background-size: cover;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.10), 0 6px 20px 0 rgba(0, 0, 0, 0.35);
+    border-radius: 10px;
+
+}
+
+.usa2{
+	width: 33.30%;
+	height: 100%;
+	background-color: cyan;
+	float: left;
+	background-image: url(us_elections8-360x240.jpg);
+	background-size: cover;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.10), 0 6px 20px 0 rgba(0, 0, 0, 0.35);
+    border-radius: 10px;
+
+}
+
+.usa3{
+	width: 33.30%;
+	height: 100%;
+	background-color: gray;
+	float: left;
+	background-image: url(Bridge-of-Sighs-Oxford-1.jpg);
+	background-size: cover;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.10), 0 6px 20px 0 rgba(0, 0, 0, 0.35);
+	border-radius: 10px;
+}
+.footer{
+	width: 100%;
+	height: 20%;
+	background-color: whitesmoke;
+	position: absolute;
+	top: 2380;
+	left: 0px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.10), 0 6px 20px 0 rgba(0, 0, 0, 0.35);
+
+}
+
+.p111{
+	font-size: 20px;
+	color: black;
+	text-align: left;
+	position: relative;
+	top: -20px;
+	left: 10px;
+}
+.p22{
+	font-size: 20px;
+	color: black;
+	text-align: left;
+	position: relative;
+	top: -30px;
+	left: 10px;
+}.p33{
+	font-size: 20px;
+	color: black;
+	text-align: left;
+	position: relative;
+	top: -50px;
+	left: 10px;
+}.p44{
+	font-size: 20px;
+	color: black;
+	text-align: left;
+	position: relative;
+	top: -70px;
+	left: 10px;
+}.p55{
+	font-size: 20px;
+	color: black;
+	text-align: left;
+	position: relative;
+	top: -90px;
+	left: 10px;
+}.p66{
+	font-size: 20px;
+	color: black;
+	text-align: left;
+	position: relative;
+	top: -179px;
+	left: 550px;
+}.p7{
+	font-size: 20px;
+	color: black;
+	text-align: left;
+	position: relative;
+	top: -220px;
+	left: 650px;
+}.p8{
+	font-size: 20px;
+	color: black;
+	text-align: left;
+	position: relative;
+	top: -262px;
+	left: 770px;
+}.p9{
+	font-size: 20px;
+	color: black;
+	text-align: left;
+	position: relative;
+	top: -305px;
+	left: 880px;
+}.p10{
+	font-size: 20px;
+	color: black;
+	text-align: left;
+	position: relative;
+	top: -349px;
+	left: 1000px;
+}.p11{
+	font-size: 20px;
+	color: black;
+	text-align: left;
+	position: relative;
+	top: -392px;
+	left: 1200px;
+	line-break: unset;
+}
