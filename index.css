@@ -1,0 +1,300 @@
+.main{
+			width: 100%;
+			height: 20%;
+			background-color: whitesmoke;
+			border-radius: 9px;
+			 box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.10), 0 6px 20px 0 rgba(0, 0, 0, 0.35);
+
+		}
+
+		.logo{
+			width: 10%;
+			height: 100%;
+			background-color: black;
+			border-radius: 9px;
+		}
+
+		.heading{
+			font-size: 40px;
+			text-align: center;
+			font-family: roboto, algerian;
+			position: absolute;
+			top: 7px;
+			left: 510px;
+		}
+
+		.title{
+			margin-left: 180px;
+			text-align: center;
+			margin-left: 30px;
+			background-color: black;
+			color: white;
+			padding: 10px;
+			border-radius: 50px;
+			width: 80px;
+			position: absolute;
+			top: 162px;
+			left: 100px;
+
+		}
+
+		.title1{
+
+			text-align: center;
+			margin-left: 30px;
+			background-color: black;
+			color: white;
+			padding: 10px;
+			border-radius: 50px;
+			width: 80px;
+			position: absolute;
+			top: 162px;
+			left: 300px;
+
+
+		}
+
+		.title2{
+
+			text-align: center;
+			margin-left: 30px;
+			background-color: black;
+			color: white;
+			padding: 10px;
+			border-radius: 50px;
+			width: 80px;
+			position: absolute;
+			top: 162px;
+			left: 500px;
+
+		}
+
+		.title3{
+			text-align: center;
+			margin-left: 30px;
+			background-color: black;
+			color: white;
+			padding: 10px;
+			border-radius: 50px;
+			width: 80px;
+			position: absolute;
+			top: 162px;
+			left: 700px;
+		}
+
+		.title4{
+			text-align: center;
+			margin-left: 30px;
+			background-color: black;
+			color: white;
+			padding: 10px;
+			border-radius: 50px;
+			width: 100px;
+			position: absolute;
+			top: 162px;
+			left: 900px;
+		}
+
+		.title5{
+			text-align: center;
+			margin-left: 30px;
+			background-color: black;
+			color: white;
+			padding: 10px;
+			border-radius: 50px;
+			width: 80px;
+			position: absolute;
+			top: 162px;
+			left: 1100px;
+		}
+		
+.main2{
+border-radius: 10px;
+background-image: url(oxford.jpg);
+height: 100%;
+width: 100%;
+background-size: cover;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.10), 0 6px 20px 0 rgba(0, 0, 0, 0.35);
+
+}
+
+.a{
+	list-style-type: circle;
+	color: darkpink;
+
+}
+
+.heading2{
+	text-align: center;
+}
+.image1{
+	background-image: url(images1.jpeg);
+	height: 30%;
+	width: 30%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.10), 0 6px 20px 0 rgba(0, 0, 0, 0.35);
+  border-radius: 10px;
+  position: absolute;
+  top: 1382;
+  left: 30px;
+  background-size: cover;
+
+}
+
+.image2{
+	background-image: url(Bridge-of-Sighs-Oxford-1.jpg);
+	height: 30%;
+	width: 30%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.10), 0 6px 20px 0 rgba(0, 0, 0, 0.35);
+  border-radius: 10px;
+  position: absolute;
+  left: 475px;
+  top: 1382px;
+  background-size: cover;
+
+}
+
+.image3{
+	background-image: url(us_elections8-360x240.jpg);
+	height: 30%;
+	width: 30%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.10), 0 6px 20px 0 rgba(0, 0, 0, 0.35);
+  border-radius: 10px;
+  position: absolute;
+  left: 920px;
+  top: 1382px;
+  background-size: cover;
+
+}
+
+.image4{
+	background-image: url(US-elections-2016-638871-590x300.jpg);
+	height: 30%;
+	width: 30%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.10), 0 6px 20px 0 rgba(0, 0, 0, 0.35);
+  border-radius: 10px;
+  position: absolute;
+  top: 1600;
+  left: 30px;
+  background-size: cover;
+
+
+}
+
+.image5{
+	background-image: url(download.jpeg);
+	height: 30%;
+	width: 30%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.10), 0 6px 20px 0 rgba(0, 0, 0, 0.35);
+  border-radius: 10px;
+  position: absolute;
+  left: 475px;
+  top: 1600;
+  background-size: cover;
+
+}
+
+.image6{
+	background-image: url(images.png);
+	height: 30%;
+	width: 30%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.10), 0 6px 20px 0 rgba(0, 0, 0, 0.35);
+  border-radius: 10px;
+  position: absolute;
+  left: 920px;
+  top: 1600px;
+  background-size: cover;
+
+
+}
+
+.footer{
+	width: 100%;
+	height: 20%;
+	background-color: whitesmoke;
+	position: absolute;
+	top: 1830px;
+	left: 0px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.10), 0 6px 20px 0 rgba(0, 0, 0, 0.35);
+
+}
+
+.p1{
+	font-size: 20px;
+	color: black;
+	text-align: left;
+	position: relative;
+	top: -20px;
+	left: 10px;
+}
+.p2{
+	font-size: 20px;
+	color: black;
+	text-align: left;
+	position: relative;
+	top: -30px;
+	left: 10px;
+}.p3{
+	font-size: 20px;
+	color: black;
+	text-align: left;
+	position: relative;
+	top: -50px;
+	left: 10px;
+}.p4{
+	font-size: 20px;
+	color: black;
+	text-align: left;
+	position: relative;
+	top: -70px;
+	left: 10px;
+}.p5{
+	font-size: 20px;
+	color: black;
+	text-align: left;
+	position: relative;
+	top: -90px;
+	left: 10px;
+}.p6{
+	font-size: 20px;
+	color: black;
+	text-align: left;
+	position: relative;
+	top: -179px;
+	left: 550px;
+}.p7{
+	font-size: 20px;
+	color: black;
+	text-align: left;
+	position: relative;
+	top: -220px;
+	left: 650px;
+}.p8{
+	font-size: 20px;
+	color: black;
+	text-align: left;
+	position: relative;
+	top: -262px;
+	left: 770px;
+}.p9{
+	font-size: 20px;
+	color: black;
+	text-align: left;
+	position: relative;
+	top: -305px;
+	left: 880px;
+}.p10{
+	font-size: 20px;
+	color: black;
+	text-align: left;
+	position: relative;
+	top: -349px;
+	left: 1000px;
+}.p11{
+	font-size: 20px;
+	color: black;
+	text-align: left;
+	position: relative;
+	top: -392px;
+	left: 1200px;
+	line-break: unset;
+}
